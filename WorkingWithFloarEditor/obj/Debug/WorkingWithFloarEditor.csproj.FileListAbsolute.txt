@@ -1,0 +1,6 @@
+c:\users\mithun\documents\visual studio 2013\Projects\WorkingWithFloarEditor\WorkingWithFloarEditor\bin\WorkingWithFloarEditor.dll.config
+c:\users\mithun\documents\visual studio 2013\Projects\WorkingWithFloarEditor\WorkingWithFloarEditor\bin\WorkingWithFloarEditor.dll
+c:\users\mithun\documents\visual studio 2013\Projects\WorkingWithFloarEditor\WorkingWithFloarEditor\bin\WorkingWithFloarEditor.pdb
+c:\users\mithun\documents\visual studio 2013\Projects\WorkingWithFloarEditor\WorkingWithFloarEditor\obj\Debug\WorkingWithFloarEditor.csprojResolveAssemblyReference.cache
+c:\users\mithun\documents\visual studio 2013\Projects\WorkingWithFloarEditor\WorkingWithFloarEditor\obj\Debug\WorkingWithFloarEditor.dll
+c:\users\mithun\documents\visual studio 2013\Projects\WorkingWithFloarEditor\WorkingWithFloarEditor\obj\Debug\WorkingWithFloarEditor.pdb
